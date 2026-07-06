@@ -3,7 +3,9 @@
 # Juanpe Márquez
 ### Cloud & AI Solution Architect · Microsoft 365 · Azure · Power Platform
 
-<a href="https://www.koplai.com"><img src="https://img.shields.io/badge/Website-koplai.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://jpmarquez.com"><img src="https://img.shields.io/badge/Web_%26_Blog-jpmarquez.com-C9A24A?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jpmarquezcas/"><img src="https://img.shields.io/badge/LinkedIn-jpmarquezcas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.koplai.com"><img src="https://img.shields.io/badge/Agency-koplai.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://github.com/Koplai"><img src="https://img.shields.io/badge/GitHub-Koplai-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Location-Andalucía,_España-1f6feb?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Focus-Cloud_·_AI_·_Automation-0e8a16?style=for-the-badge"/>
@@ -38,8 +40,8 @@ Operational dashboard for AI-driven workflows and multi-agent orchestration.
 - DR warm-standby strategy (WSL + Docker)
 - Cost, runtime and operational visibility
 
-### 2) jpmarquezcom
-Personal technical brand site focused on engineers, architects and technical leads.
+### 2) [jpmarquez.com](https://jpmarquez.com)
+Personal site and bilingual blog (EN/ES) on Microsoft 365 Copilot, Copilot Studio, Azure AI Foundry and AI governance — for engineers, architects and technical leads.
 
 **Highlights:**
 - Technical-first content (no marketing fluff)
@@ -78,7 +80,7 @@ Personal technical brand site focused on engineers, architects and technical lea
 
 ## 📌 Selected Repositories
 - [Atlas-OS](https://github.com/Koplai/Atlas-OS) — AI ops, governance and resilience platform
-- [jpmarquezcom](https://github.com/Koplai/jpmarquezcom) — personal technical website
+- [jpmarquezcom](https://github.com/Koplai/jpmarquezcom) — source of [jpmarquez.com](https://jpmarquez.com), personal site + bilingual AI blog
 - [openclaw (fork)](https://github.com/Koplai/openclaw) — personal AI assistant runtime experimentation
 
 ---
